@@ -1,9 +1,9 @@
 ## Hi, I'm Arijit 
 
-🧠 Computer Science Engineer (CSE (AI&ML) ) student at IEM kolkata.
-📔 I like to make front end with the help of AI.
-👥 I like making personal projects like chat bots, websites, and many more...
-   I have a keen interest in learning new AI models.
+🧠 Computer Science Engineer (CSE (AI&ML) ) student at IEM kolkata.<br/>
+📔 I like to make front end with the help of AI.<br/>
+👥 I like making personal projects like chat bots, websites, and many more...<br/>
+   I have a keen interest in learning new AI models.<br/>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/blockiomonad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-bhaya-0b11a72a8/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Arijitbhaya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Blockiomonad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arijitbhaya123@gmail.com) 
 
